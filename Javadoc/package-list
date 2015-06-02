@@ -1,0 +1,11 @@
+com.azwave.androidzwave
+com.azwave.androidzwave.module
+com.azwave.androidzwave.zwave
+com.azwave.androidzwave.zwave.commandclass
+com.azwave.androidzwave.zwave.driver
+com.azwave.androidzwave.zwave.items
+com.azwave.androidzwave.zwave.nodes
+com.azwave.androidzwave.zwave.services
+com.azwave.androidzwave.zwave.utils
+com.azwave.androidzwave.zwave.values
+com.azwave.androidzwave.zwave.xml
